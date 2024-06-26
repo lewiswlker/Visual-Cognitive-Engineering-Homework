@@ -1,0 +1,163 @@
+2024-06-24 19:47:05,184 Starting training at: 1719229625.1839879
+2024-06-24 19:59:34,973 Epoch [0/10], Loss: 0.9272, Time: 749.78s, Remaining time: 112.47min
+2024-06-24 20:00:31,619 Test Loss: 0.5348, ACC@1: 83.89%
+2024-06-24 20:00:32,550 Saved best model with ACC@1: 83.89%
+2024-06-24 20:00:33,881 Saved checkpoint at epoch 0
+2024-06-24 20:13:03,830 Epoch [1/10], Loss: 0.4425, Time: 749.94s, Remaining time: 99.99min
+2024-06-24 20:14:00,947 Test Loss: 0.5357, ACC@1: 84.12%
+2024-06-24 20:14:02,387 Saved best model with ACC@1: 84.12%
+2024-06-24 20:14:04,982 Saved checkpoint at epoch 1
+2024-06-24 20:26:35,575 Epoch [2/10], Loss: 0.3124, Time: 750.59s, Remaining time: 87.57min
+2024-06-24 20:27:33,640 Test Loss: 0.5957, ACC@1: 83.57%
+2024-06-24 20:27:36,718 Saved checkpoint at epoch 2
+2024-06-24 20:40:08,139 Epoch [3/10], Loss: 0.2330, Time: 751.42s, Remaining time: 75.14min
+2024-06-24 20:41:05,436 Test Loss: 0.5611, ACC@1: 85.03%
+2024-06-24 20:41:06,745 Saved best model with ACC@1: 85.03%
+2024-06-24 20:41:09,387 Saved checkpoint at epoch 3
+2024-06-24 20:53:44,129 Epoch [4/10], Loss: 0.1905, Time: 754.74s, Remaining time: 62.89min
+2024-06-24 20:54:41,977 Test Loss: 0.5294, ACC@1: 85.64%
+2024-06-24 20:54:43,305 Saved best model with ACC@1: 85.64%
+2024-06-24 20:54:45,895 Saved checkpoint at epoch 4
+2024-06-24 21:07:15,971 Epoch [5/10], Loss: 0.1588, Time: 750.07s, Remaining time: 50.00min
+2024-06-24 21:08:13,749 Test Loss: 0.6294, ACC@1: 84.61%
+2024-06-24 21:08:16,686 Saved checkpoint at epoch 5
+2024-06-24 21:08:45,808 Loaded checkpoint from epoch 6
+2024-06-24 21:08:45,808 Starting training at: 1719234525.8084452
+2024-06-24 21:21:14,483 Epoch [6/10], Loss: 0.1398, Time: 748.67s, Remaining time: 37.43min
+2024-06-24 21:22:11,326 Test Loss: 0.6214, ACC@1: 84.04%
+2024-06-24 21:22:14,365 Saved checkpoint at epoch 6
+2024-06-24 21:22:32,215 Loaded checkpoint from epoch 7
+2024-06-24 21:22:32,215 Starting training at: 1719235352.215398
+2024-06-24 21:35:03,569 Epoch [7/10], Loss: 0.1242, Time: 751.35s, Remaining time: 25.04min
+2024-06-24 21:36:02,152 Test Loss: 0.6652, ACC@1: 84.38%
+2024-06-24 21:36:05,786 Saved checkpoint at epoch 7
+2024-06-24 21:48:32,551 Epoch [8/10], Loss: 0.1087, Time: 746.76s, Remaining time: 12.45min
+2024-06-24 21:49:31,721 Test Loss: 0.6395, ACC@1: 84.51%
+2024-06-24 21:49:35,151 Saved checkpoint at epoch 8
+2024-06-24 22:02:04,755 Epoch [9/10], Loss: 0.1088, Time: 749.60s, Remaining time: 0.00min
+2024-06-24 22:03:03,693 Test Loss: 0.6393, ACC@1: 84.84%
+2024-06-24 22:03:06,995 Saved checkpoint at epoch 9
+2024-06-24 22:03:57,306 Loaded checkpoint from epoch 10
+2024-06-24 22:03:57,306 Starting training at: 1719237837.3069
+2024-06-24 22:16:27,067 Epoch [10/20], Loss: 0.0918, Time: 749.76s, Remaining time: 112.46min
+2024-06-24 22:17:25,526 Test Loss: 0.6850, ACC@1: 85.10%
+2024-06-24 22:17:29,252 Saved checkpoint at epoch 10
+2024-06-24 22:29:57,454 Epoch [11/20], Loss: 0.0919, Time: 748.20s, Remaining time: 99.76min
+2024-06-24 22:30:55,790 Test Loss: 0.6503, ACC@1: 85.07%
+2024-06-24 22:30:59,251 Saved checkpoint at epoch 11
+2024-06-24 22:43:26,925 Epoch [12/20], Loss: 0.0860, Time: 747.67s, Remaining time: 87.23min
+2024-06-24 22:44:25,917 Test Loss: 0.6848, ACC@1: 84.80%
+2024-06-24 22:44:29,222 Saved checkpoint at epoch 12
+2024-06-24 22:56:59,657 Epoch [13/20], Loss: 0.0827, Time: 750.43s, Remaining time: 75.04min
+2024-06-24 22:57:58,936 Test Loss: 0.7132, ACC@1: 83.88%
+2024-06-24 22:58:02,191 Saved checkpoint at epoch 13
+2024-06-24 23:10:31,794 Epoch [14/20], Loss: 0.0739, Time: 749.60s, Remaining time: 62.47min
+2024-06-24 23:11:30,688 Test Loss: 0.7322, ACC@1: 84.55%
+2024-06-24 23:11:33,715 Saved checkpoint at epoch 14
+2024-06-24 23:23:57,484 Epoch [15/20], Loss: 0.0732, Time: 743.76s, Remaining time: 49.58min
+2024-06-24 23:24:55,482 Test Loss: 0.6993, ACC@1: 84.41%
+2024-06-24 23:24:58,665 Saved checkpoint at epoch 15
+2024-06-24 23:26:02,529 Loaded checkpoint from epoch 16
+2024-06-24 23:26:02,530 Starting training at: 1719242762.5300894
+2024-06-24 23:38:33,354 Epoch [16/50], Loss: 0.0707, Time: 750.82s, Remaining time: 412.95min
+2024-06-24 23:39:31,560 Test Loss: 0.7524, ACC@1: 83.16%
+2024-06-24 23:39:34,930 Saved checkpoint at epoch 16
+2024-06-24 23:52:03,175 Epoch [17/50], Loss: 0.0689, Time: 748.24s, Remaining time: 399.06min
+2024-06-24 23:53:00,905 Test Loss: 0.7571, ACC@1: 83.52%
+2024-06-24 23:53:04,131 Saved checkpoint at epoch 17
+2024-06-25 00:05:31,624 Epoch [18/50], Loss: 0.0666, Time: 747.49s, Remaining time: 386.20min
+2024-06-25 00:06:29,721 Test Loss: 0.7275, ACC@1: 83.81%
+2024-06-25 00:06:31,984 Saved checkpoint at epoch 18
+2024-06-25 00:19:00,488 Epoch [19/50], Loss: 0.0614, Time: 748.50s, Remaining time: 374.25min
+2024-06-25 00:19:58,186 Test Loss: 0.7423, ACC@1: 83.95%
+2024-06-25 00:20:01,832 Saved checkpoint at epoch 19
+2024-06-25 00:32:28,833 Epoch [20/50], Loss: 0.0646, Time: 747.00s, Remaining time: 361.05min
+2024-06-25 00:33:27,566 Test Loss: 0.7187, ACC@1: 84.62%
+2024-06-25 00:33:30,723 Saved checkpoint at epoch 20
+2024-06-25 00:45:58,199 Epoch [21/50], Loss: 0.0568, Time: 747.47s, Remaining time: 348.82min
+2024-06-25 00:46:56,993 Test Loss: 0.7385, ACC@1: 84.04%
+2024-06-25 00:47:00,309 Saved checkpoint at epoch 21
+2024-06-25 00:59:26,359 Epoch [22/50], Loss: 0.0582, Time: 746.05s, Remaining time: 335.72min
+2024-06-25 01:00:24,994 Test Loss: 0.7348, ACC@1: 84.35%
+2024-06-25 01:00:27,322 Saved checkpoint at epoch 22
+2024-06-25 01:12:54,929 Epoch [23/50], Loss: 0.0563, Time: 747.60s, Remaining time: 323.96min
+2024-06-25 01:13:53,488 Test Loss: 0.7679, ACC@1: 84.24%
+2024-06-25 01:13:56,790 Saved checkpoint at epoch 23
+2024-06-25 01:26:23,626 Epoch [24/50], Loss: 0.0573, Time: 746.83s, Remaining time: 311.18min
+2024-06-25 01:27:21,327 Test Loss: 0.7345, ACC@1: 84.60%
+2024-06-25 01:27:24,660 Saved checkpoint at epoch 24
+2024-06-25 01:39:52,520 Epoch [25/50], Loss: 0.0528, Time: 747.85s, Remaining time: 299.14min
+2024-06-25 01:40:50,495 Test Loss: 0.7683, ACC@1: 83.78%
+2024-06-25 01:40:53,922 Saved checkpoint at epoch 25
+2024-06-25 01:53:18,641 Epoch [26/50], Loss: 0.0533, Time: 744.71s, Remaining time: 285.47min
+2024-06-25 01:54:16,192 Test Loss: 0.7975, ACC@1: 83.85%
+2024-06-25 01:54:19,498 Saved checkpoint at epoch 26
+2024-06-25 02:06:45,698 Epoch [27/50], Loss: 0.0527, Time: 746.20s, Remaining time: 273.60min
+2024-06-25 02:07:43,742 Test Loss: 0.8041, ACC@1: 83.39%
+2024-06-25 02:07:46,876 Saved checkpoint at epoch 27
+2024-06-25 02:20:15,073 Epoch [28/50], Loss: 0.0491, Time: 748.19s, Remaining time: 261.87min
+2024-06-25 02:21:13,548 Test Loss: 0.7661, ACC@1: 83.95%
+2024-06-25 02:21:16,856 Saved checkpoint at epoch 28
+2024-06-25 02:33:46,439 Epoch [29/50], Loss: 0.0457, Time: 749.58s, Remaining time: 249.86min
+2024-06-25 02:34:44,313 Test Loss: 0.8438, ACC@1: 83.55%
+2024-06-25 02:34:46,641 Saved checkpoint at epoch 29
+2024-06-25 02:47:12,382 Epoch [30/50], Loss: 0.0487, Time: 745.74s, Remaining time: 236.15min
+2024-06-25 02:48:09,823 Test Loss: 0.8677, ACC@1: 83.49%
+2024-06-25 02:48:12,131 Saved checkpoint at epoch 30
+2024-06-25 03:00:39,034 Epoch [31/50], Loss: 0.0451, Time: 746.90s, Remaining time: 224.07min
+2024-06-25 03:01:36,708 Test Loss: 0.8297, ACC@1: 83.63%
+2024-06-25 03:01:40,008 Saved checkpoint at epoch 31
+2024-06-25 03:14:03,978 Epoch [32/50], Loss: 0.0483, Time: 743.97s, Remaining time: 210.79min
+2024-06-25 03:15:01,518 Test Loss: 0.8036, ACC@1: 83.68%
+2024-06-25 03:15:04,889 Saved checkpoint at epoch 32
+2024-06-25 03:27:31,235 Epoch [33/50], Loss: 0.0430, Time: 746.34s, Remaining time: 199.02min
+2024-06-25 03:28:29,127 Test Loss: 0.8805, ACC@1: 82.82%
+2024-06-25 03:28:31,446 Saved checkpoint at epoch 33
+2024-06-25 03:40:56,293 Epoch [34/50], Loss: 0.0468, Time: 744.84s, Remaining time: 186.21min
+2024-06-25 03:41:54,654 Test Loss: 0.9006, ACC@1: 82.47%
+2024-06-25 03:41:57,087 Saved checkpoint at epoch 34
+2024-06-25 03:54:24,365 Epoch [35/50], Loss: 0.0411, Time: 747.27s, Remaining time: 174.36min
+2024-06-25 03:55:22,298 Test Loss: 0.8076, ACC@1: 84.11%
+2024-06-25 03:55:25,651 Saved checkpoint at epoch 35
+2024-06-25 04:07:50,159 Epoch [36/50], Loss: 0.0423, Time: 744.50s, Remaining time: 161.31min
+2024-06-25 04:08:47,767 Test Loss: 0.9001, ACC@1: 83.11%
+2024-06-25 04:08:51,096 Saved checkpoint at epoch 36
+2024-06-25 04:21:12,697 Epoch [37/50], Loss: 0.0423, Time: 741.60s, Remaining time: 148.32min
+2024-06-25 04:22:09,992 Test Loss: 0.8664, ACC@1: 82.07%
+2024-06-25 04:22:12,344 Saved checkpoint at epoch 37
+2024-06-25 04:34:36,041 Epoch [38/50], Loss: 0.0410, Time: 743.69s, Remaining time: 136.34min
+2024-06-25 04:35:33,241 Test Loss: 0.8310, ACC@1: 83.07%
+2024-06-25 04:35:36,627 Saved checkpoint at epoch 38
+2024-06-25 04:48:00,987 Epoch [39/50], Loss: 0.0409, Time: 744.35s, Remaining time: 124.06min
+2024-06-25 04:48:58,262 Test Loss: 0.8389, ACC@1: 83.71%
+2024-06-25 04:49:01,417 Saved checkpoint at epoch 39
+2024-06-25 05:01:25,343 Epoch [40/50], Loss: 0.0397, Time: 743.92s, Remaining time: 111.59min
+2024-06-25 05:02:24,007 Test Loss: 0.8375, ACC@1: 83.52%
+2024-06-25 05:02:27,417 Saved checkpoint at epoch 40
+2024-06-25 05:14:48,779 Epoch [41/50], Loss: 0.0402, Time: 741.36s, Remaining time: 98.85min
+2024-06-25 05:15:46,744 Test Loss: 0.8560, ACC@1: 83.13%
+2024-06-25 05:15:50,205 Saved checkpoint at epoch 41
+2024-06-25 05:28:11,734 Epoch [42/50], Loss: 0.0387, Time: 741.52s, Remaining time: 86.51min
+2024-06-25 05:29:09,995 Test Loss: 0.8513, ACC@1: 83.65%
+2024-06-25 05:29:12,120 Saved checkpoint at epoch 42
+2024-06-25 05:41:34,993 Epoch [43/50], Loss: 0.0400, Time: 742.87s, Remaining time: 74.29min
+2024-06-25 05:42:34,272 Test Loss: 0.9057, ACC@1: 83.10%
+2024-06-25 05:42:37,582 Saved checkpoint at epoch 43
+2024-06-25 05:54:58,744 Epoch [44/50], Loss: 0.0372, Time: 741.16s, Remaining time: 61.76min
+2024-06-25 05:55:56,372 Test Loss: 0.8850, ACC@1: 82.77%
+2024-06-25 05:55:59,668 Saved checkpoint at epoch 44
+2024-06-25 06:08:21,004 Epoch [45/50], Loss: 0.0379, Time: 741.33s, Remaining time: 49.42min
+2024-06-25 06:09:19,865 Test Loss: 0.8174, ACC@1: 83.78%
+2024-06-25 06:09:23,132 Saved checkpoint at epoch 45
+2024-06-25 06:21:43,735 Epoch [46/50], Loss: 0.0361, Time: 740.60s, Remaining time: 37.03min
+2024-06-25 06:22:41,590 Test Loss: 0.8683, ACC@1: 83.02%
+2024-06-25 06:22:44,852 Saved checkpoint at epoch 46
+2024-06-25 06:35:06,872 Epoch [47/50], Loss: 0.0330, Time: 742.02s, Remaining time: 24.73min
+2024-06-25 06:36:04,773 Test Loss: 0.8953, ACC@1: 82.34%
+2024-06-25 06:36:07,220 Saved checkpoint at epoch 47
+2024-06-25 06:48:28,908 Epoch [48/50], Loss: 0.0354, Time: 741.68s, Remaining time: 12.36min
+2024-06-25 06:49:26,974 Test Loss: 0.9066, ACC@1: 83.30%
+2024-06-25 06:49:30,145 Saved checkpoint at epoch 48
+2024-06-25 07:01:52,945 Epoch [49/50], Loss: 0.0357, Time: 742.80s, Remaining time: 0.00min
+2024-06-25 07:02:50,614 Test Loss: 0.8384, ACC@1: 83.21%
+2024-06-25 07:02:53,859 Saved checkpoint at epoch 49
